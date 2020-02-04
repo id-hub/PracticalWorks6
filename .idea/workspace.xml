@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec4858e8-3137-4c08-9742-6f79e4e32934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticalWork6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticalWork6/com/ab/work61/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticalWork6/com/ab/work62/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticalWork6/com/ab/work63/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticalWork6/com/ab/work64/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PracticalWork6/com/ab/work641/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ab/work61/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ab/work62/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ab/work63/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ab/work64/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ab/work641/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ab/work65/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XANAHJ6PQevla8sp84HtTXCkUj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PracticalWork5" />
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ab.work62.Main" />
+      <module name="PracticalWork6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ab.work62.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ab.work63.Main" />
+      <module name="PracticalWork6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ab.work63.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ab.work64.Main" />
+      <module name="PracticalWork6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ab.work64.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ab.work641.Main" />
+      <module name="PracticalWork6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ab.work641.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ab.work61.Main" />
+      <module name="PracticalWork6" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4858e8-3137-4c08-9742-6f79e4e32934" name="Default Changelist" comment="" />
+      <created>1580484793475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580484793475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="180" key="FileChooserDialogImpl" timestamp="1580853278656">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="576" y="180" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1580853278656" />
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom" timestamp="1580746990222">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990222" />
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1580690164714" />
+    <state width="1340" height="209" key="GridCell.Tab.0.center" timestamp="1580746990222">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990222" />
+    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1580690164714" />
+    <state width="1340" height="209" key="GridCell.Tab.0.left" timestamp="1580746990221">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990221" />
+    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1580690164714" />
+    <state width="1340" height="209" key="GridCell.Tab.0.right" timestamp="1580746990222">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990222" />
+    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1580690164714" />
+    <state x="179" y="47" key="new project wizard" timestamp="1580757453454">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="179" y="47" key="new project wizard/0.0.1600.870@0.0.1600.870" timestamp="1580757453454" />
+    <state x="459" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1580732133958">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="459" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580732133958" />
+    <state x="459" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1600.870@0.0.1600.870" timestamp="1580688546884" />
+  </component>
+</project>
