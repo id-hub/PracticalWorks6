@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4858e8-3137-4c08-9742-6f79e4e32934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ab/work641/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ab/work65/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ab/work65/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PracticalWork4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -134,46 +131,54 @@
       <option name="project" value="LOCAL" />
       <updated>1580853921978</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Решение заданий 6-4, 6-5">
+      <created>1580865748947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580865748947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="string" />
-    <option name="LAST_COMMIT_MESSAGE" value="string" />
+    <MESSAGE value="Решение заданий 6-4, 6-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение заданий 6-4, 6-5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="470" y="7" key="CommitChangelistDialog2" timestamp="1580853918055">
+    <state x="470" y="7" key="CommitChangelistDialog2" timestamp="1580867386126">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="470" y="7" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1580853918055" />
-    <state x="576" y="180" key="FileChooserDialogImpl" timestamp="1580860438020">
+    <state x="470" y="7" key="CommitChangelistDialog2/0.0.1600.870@0.0.1600.870" timestamp="1580867386126" />
+    <state x="576" y="180" key="FileChooserDialogImpl" timestamp="1580866290151">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="576" y="180" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1580860438020" />
-    <state width="1340" height="209" key="GridCell.Tab.0.bottom" timestamp="1580865589024">
+    <state x="576" y="180" key="FileChooserDialogImpl/0.0.1600.870@0.0.1600.870" timestamp="1580866290151" />
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom" timestamp="1580866500794">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990222" />
-    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1580865589024" />
-    <state width="1340" height="209" key="GridCell.Tab.0.center" timestamp="1580865589024">
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1600.870@0.0.1600.870" timestamp="1580866500794" />
+    <state width="1340" height="209" key="GridCell.Tab.0.center" timestamp="1580866500794">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990222" />
-    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1580865589024" />
-    <state width="1340" height="209" key="GridCell.Tab.0.left" timestamp="1580865589024">
+    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1600.870@0.0.1600.870" timestamp="1580866500794" />
+    <state width="1340" height="209" key="GridCell.Tab.0.left" timestamp="1580866500794">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990221" />
-    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1580865589024" />
-    <state width="1340" height="209" key="GridCell.Tab.0.right" timestamp="1580865589024">
+    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1600.870@0.0.1600.870" timestamp="1580866500794" />
+    <state width="1340" height="209" key="GridCell.Tab.0.right" timestamp="1580866500794">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1600.870/-1920.-578.1920.1050@0.0.1600.870" timestamp="1580746990222" />
-    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1580865589024" />
-    <state x="388" y="158" key="Vcs.Push.Dialog.v2" timestamp="1580853955915">
+    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1600.870@0.0.1600.870" timestamp="1580866500794" />
+    <state x="388" y="158" key="Vcs.Push.Dialog.v2" timestamp="1580865794482">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="388" y="158" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1580853955915" />
+    <state x="388" y="158" key="Vcs.Push.Dialog.v2/0.0.1600.870@0.0.1600.870" timestamp="1580865794482" />
     <state x="179" y="47" key="new project wizard" timestamp="1580757453454">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
